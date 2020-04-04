@@ -7,13 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-.shape {
-  font-family:'Helvetica';
-  font-weight:400;
-  font-style:normal;
-}
-.image {
-}
 .heading_1 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -58,9 +51,22 @@
 .paragraph {
   text-align:left;
 }
-.flow_shape {
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
 .box_1 {
 }
-.line {
+.connector {
+}
+.image {
 }
