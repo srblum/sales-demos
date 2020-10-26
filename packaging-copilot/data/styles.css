@@ -7,20 +7,10 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
-}
-.box_2 {
-}
-.box_3 {
-}
 .shape {
   font-family:'Helvetica';
   font-weight:400;
   font-style:normal;
-}
-.image {
-}
-.placeholder {
 }
 .heading_1 {
   font-family:'ArialMT', 'Arial';
@@ -66,7 +56,15 @@
 .paragraph {
   text-align:left;
 }
-.flow_shape {
+.box_1 {
+}
+.image {
+}
+.placeholder {
 }
 .line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
